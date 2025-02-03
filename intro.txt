@@ -4,3 +4,6 @@ Compiler :- Executes the code at a time and converts at last in bbinary form.
 Interpreter:- Excutes the code line by line.
 
 * Python is a interpreted language {interpreter -> python}
+
+* for loop :- it always works on the counter/ range functio/  numbers.
+* while loop :- it always works on condition.
