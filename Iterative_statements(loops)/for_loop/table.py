@@ -8,5 +8,5 @@ for i in n:
 """
 Syntax==>
 for variable in sequence:
-    statment1
+    statement1
 """
