@@ -1,5 +1,11 @@
 #JAI SHREE RAM
 
+a = "A"
+
+print(ord(a)) #ASCII value of A
+
+print(chr(65))
+
 str = "codetantra"
 
 print(str[::])
