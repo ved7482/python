@@ -11,9 +11,9 @@ str = "codetantra"
 print(str[::])
 print(str[5])
 
-# print(str[start:stop:stride])
+# print(str[start:stop:stride or steps])
 print(str[2:7])
-#by defualt stride = 1 and it includes the start value and leaves the stop value(just same as range fun.)
+#by defualt stride = 1 and it includes the start value and exclude the stop value(just same as range fun.)
 
 print(str[2:7:1])
 print(str[1:8:2])
