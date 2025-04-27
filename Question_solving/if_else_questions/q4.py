@@ -9,5 +9,6 @@ if (age >= 18):
     print(f"{name} is a valid voter.")
 elif (age < 18 and age > 0):
     print(f"{name} is not a valid voter.")
+    print(f"{name} be able to vote after {18 - age} years.")
 else:
     print("Enter a valid age.")
